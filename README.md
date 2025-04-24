@@ -76,6 +76,10 @@ Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have
 - [chill-pill](./8-trifecta/43-chill-pill)
 - [cap-that](./8-trifecta/44-cap-that)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@MohammadJaffal/30-nites-of-code)  
+  ![@MohammadJaffal #30NitesOfCode](https://www.codedex.io/api/petStatus?user=MohammadJaffal)
+
 ---
 
 Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
